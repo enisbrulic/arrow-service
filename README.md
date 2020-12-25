@@ -65,3 +65,8 @@ content-type: application/json; charset=UTF-8
 }
 ```
 
+
+[//]:  # (hidden section)
+
+[Quarkus - building application with maven]: https://quarkus.io/guides/maven-tooling
+
